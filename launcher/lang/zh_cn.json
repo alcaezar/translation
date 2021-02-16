@@ -1,0 +1,31 @@
+{
+	"description": "中文(简体)",
+	"launcher.main.title": "Minecraft 启动器",
+	"launcher.main.start.title": "启动",
+	"launcher.main.start.start": "开始游戏",
+	"launcher.main.start.manage": {
+		"register": "注册",
+		"rename": "重命名"
+	},
+	"launcher.main.install.title": "安装",
+	"launcher.main.install.refresh": "刷新",
+	"launcher.main.install.install": "安装",
+	"launcher.main.install.uninstall": "删除",
+	"launcher.main.install.uninstall.message": {
+		"title": "删除",
+		"message": "确认删除 %s?"
+	},
+	"launcher.main.install.status": [
+		"无下载任务",
+		"正在下载 %d%%...",
+		"安装中",
+		"错误!"
+	],
+	"launcher.main.settings.title": "设置",
+	"launcher.main.settings.text": [
+		"启动器版本 %s",
+		"该程序在 GPLv3 协议下发行\nCopyright (c) 2020-2021"
+	],
+	"launcher.main.settings.language": "语言: ",
+	"launcher.main.settings.clean_cache": "清除缓存"
+}
