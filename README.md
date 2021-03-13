@@ -26,9 +26,8 @@ It's an example:
 First, open an issue. It's name **must** include following things:
 
 1. Which project
-2. README or language files
-3. Which language
-4. How lang to finish it
+2. Which language
+3. How lang to finish it
 
 Then, you can fork this repo. Translate something.
 
