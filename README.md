@@ -1,10 +1,7 @@
 # Translation
 Translation project of Minecraft-in-python.
 
-What to translate:
-
-- `README` file
-- json files under `lang/` directory(base on English or Simplified Chinese)
+You can translate json files under every directorys(base on English or Simplified Chinese).
 
 ## How To Translate JSON
 It's an example:
