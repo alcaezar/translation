@@ -14,7 +14,7 @@ $f    wzh656
 [C]$e许可证
 [C]$f============
 
-$f该程序根据 $6GNU GENERAL PUBLIC LICENSE version 3 $0 $f发行
+$f该程序根据 $6GNU 通用公共许可协议第3版 $f发行
 
 [C]$f============
 [C]$e特别致谢
