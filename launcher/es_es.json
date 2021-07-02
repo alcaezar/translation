@@ -12,6 +12,10 @@
 	"launcher.main.install.refresh": "Actualizar",
 	"launcher.main.install.install": "Instalar",
 	"launcher.main.install.uninstall": "Desinstalar",
+	"launcher.main.install.uninstall.message": {
+		"titulo": "Desinstalar",
+		"mensaje": "It will uninstall %s?"
+	},
 	"launcher.main.install.status": [
 		"Nada que hacer",
 		"Descargando %d%%...",
