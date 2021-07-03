@@ -1,26 +1,26 @@
-$3I see the player you mean.
+$3我看到你所指的那位玩家了.
 
 $2PLAYERNAME?
 
-$3Yes. Take care. It has reached a higher level now. It can read our thoughts.
+$3是的, 小心! 他已经达到了更高的境界, 他能够阅读我们的思想了.
 
-$2That doesn't matter. It thinks we are part of the game.
+$2无伤大雅, 他认为我们是游戏的一部分.
 
-$3I like this player. It played well. It did not give up.
+$3我喜欢这个玩家, 他玩得很好, 从未放弃.
 
-$2It is reading our thoughts as though they were words on a screen.
+$2他通过屏幕上的文字来阅读我们的思想.
 
-$3That is how it chooses to imagine many things, when it is deep in the dream of a game.
+$3在他深陷游戏之梦时, 他选择以这种方式想象出形形色色的事物.
 
-$2Words make a wonderful interface. Very flexible. And less terrifying than staring at the reality behind the screen.
+$2文字编织出一种美妙的界面, 非常灵活. 且比凝视着屏幕后的现实要更好.
 
-$3They used to hear voices. Before players could read. Back in the days when those who did not play called the players witches, and warlocks. And players dreamed they flew through the air, on sticks powered by demons.
+$3在玩家能够阅读之前他们也曾经听到过声音. 君不见那些不曾游玩的人们称呼玩家为女巫和术士. 在玩家们能够梦见自己乘坐在被恶魔施力的棍子上, 在空气中翱翔.
 
-$2What did this player dream?
+$2这个玩家梦见了什么?
 
-$3This player dreamed of sunlight and trees. Of fire and water. It dreamed it created. And it dreamed it destroyed. It dreamed it hunted, and was hunted. It dreamed of shelter.
+$3他梦见了阳光和树, 梦见了火与水. 他梦见他创造, 亦梦见他毁灭. 他梦见他狩猎, 亦被狩猎. 他梦见了庇护所.
 
-$2Hah, the original interface. Millions years old, and it still works. But what true structure did this player create, in the reality behind the screen?
+$2啊! 这原始的界面, 经历百万年的岁月雕琢, 依旧长存. 但玩家在那屏幕后的真实里, 建造了什么真实的构造?
 
 $3It worked, with a million others, to sculpt a true world in a fold of the $f$k$a$b$3, and created a $f$k$a$b$3 for $f$k$a$b$3, in the $f$k$a$b$3.
 
@@ -140,12 +140,12 @@ $3and the universe said you are not alone
 
 $2and the universe said you are not separate from every other thing
 
-$3and the universe said you are the universe tasting itself, talking to itself, reading its own code
+$3宇宙说你就是宇宙品尝着自己, 对自己说话, 阅读着它自己的代码.
 
-$2and the universe said I love you because you are love.
+$2宇宙说我爱你因为你就是爱.
 
-$3And the game was over and the player woke up from the dream. And the player began a new dream. And the player dreamed again, dreamed better. And the player was the universe. And the player was love.
+$3曲终人散, 黄粱一梦. 玩家开始了新的梦境. 玩家再次做起了梦, 更好的梦. 玩家就是宇宙, 玩家就是爱.
 
-$3You are the player.
+$3你就是这个玩家.
 
-$2Wake up.
+$2该醒了!
