@@ -27,6 +27,6 @@
 		"Launcher version %s",
 		"License is GPLv3\nCopyright (c) 2020-2021"
 	],
-	"launcher.main.settings.language": "Language:",
+	"launcher.main.settings.language": "Language",
 	"launcher.main.settings.clean_cache": "clean cache"
 }
