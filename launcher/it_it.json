@@ -1,0 +1,32 @@
+{
+	"description": "Italiano(IT)",
+	"launcher.main.title": "Minecraft Launcher",
+	"launcher.main.start.title": "Avvia",
+	"launcher.main.start.start": "Avvia il Gioco",
+	"launcher.main.start.manage": {
+		"register": "Registrati",
+		"rename": "Rinomina"
+	},
+	"launcher.main.start.missing_deps": "Uh, alcune dipendenze non sono installate: %s",
+	"launcher.main.install.title": "Installa",
+	"launcher.main.install.refresh": "Ricarica",
+	"launcher.main.install.install": "Installa",
+	"launcher.main.install.uninstall": "Disinstalla",
+	"launcher.main.install.uninstall.message": {
+		"title": "Disinstallazione",
+		"message": "Vuoi veramente disinstallare %s?"
+	},
+	"launcher.main.install.status": [
+		"Niente da fare :(",
+		"Scaricando %d%%...",
+		"Installazione...!",
+		"Errore!"
+	],
+	"launcher.main.settings.title": "Impostazioni",
+	"launcher.main.settings.text": [
+		"Versione del launcher: %s",
+		"License is GPLv3\nCopyright (c) 2020-2021"
+	],
+	"launcher.main.settings.language": "Lingua",
+	"launcher.main.settings.clean_cache": "Pulisci le cache"
+}
